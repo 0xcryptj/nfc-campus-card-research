@@ -34,4 +34,4 @@ Passive security research analyzing the NFC student ID card infrastructure at th
 Passive unauthenticated enumeration only. No keys or credentials obtained or attempted. Research performed on researcher's own card.
 
 ## Disclosure
-Findings documented May 2026. Intended for responsible disclosure to CofC IT Security.
+Findings documented May 2026.
